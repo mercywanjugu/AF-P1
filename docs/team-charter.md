@@ -1,15 +1,17 @@
 # Team charter
 
-Team name:
+Team name:GRIT
 
 Members and contact method:
+Michelle Matagaro : MKMATAGARO67
+Mercy Wanjugu : mercywanjugu
 
 ## Working agreement
 
 - Where we coordinate:
 - Expected response time:
 - How we divide issues:
-- Who reviews a PR if the usual reviewer is unavailable:
+- Who reviews a PR if the usual reviewer is unavailable:Mercy Wanj
 - What we do when a member is blocked:
 - How we resolve a disagreement:
 
